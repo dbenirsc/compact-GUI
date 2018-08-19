@@ -4,7 +4,6 @@ from pyqtgraph.Qt import QtCore, QtGui
 import numpy as np
 import pyqtgraph as pg
 import ServerRecord as SR
-import myclient as mc
 import struct
 from matplotlib import cm
 import pickle
